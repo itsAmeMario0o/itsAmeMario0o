@@ -13,7 +13,7 @@ education:
     "Master's of Business Administration in Business Analytics",
     "Bachelor's in Telecommunications Engineering",
   ]
-company: Soulber
+company: Cisco Systems
 
 fields_of_interests:
   [
