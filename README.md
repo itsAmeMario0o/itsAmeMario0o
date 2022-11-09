@@ -6,7 +6,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-         src="https://media.giphy.com/media/7NM9zPPo0KSjFfjdck/giphy.gif" width="248" height="248" 
+         src="https://media.giphy.com/media/7NM9zPPo0KSjFfjdck/giphy.gif" 
      alt="GIF by Ivan Rascon via GIPHY">
 </img>
 
