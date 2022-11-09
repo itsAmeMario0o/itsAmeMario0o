@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?section=header&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<img src="https://media.giphy.com/media/7NM9zPPo0KSjFfjdck/giphy.gif">
+
 👨🏻‍💻  About
 ```yaml
 name: Mario Ruiz
