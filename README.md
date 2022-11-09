@@ -34,7 +34,7 @@ technical_background:
   ]
   
 currently_learning: ["How to relax, Manim"]
-hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "☕", "Comedy"]
+hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee", "Comedy"]
 ```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=gradient&height=100"/>
