@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=header&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<img src = https://giphy.com/gifs/super-mario-13qhRntDMhgqZ2></img>
+<img src ="https://giphy.com/embed/13qhRntDMhgqZ2" width="480" height="281"> </img>
 
 👨🏻‍💻  About
 ```yaml
