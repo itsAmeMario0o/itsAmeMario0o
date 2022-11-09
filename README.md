@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=header&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+<img src = https://giphy.com/gifs/super-mario-13qhRntDMhgqZ2></img>
 
 👨🏻‍💻  About
 ```yaml
@@ -27,6 +27,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Technical Lead"
     "Technical Solutions Architect",
     "Consulting Systems Engineer",
     "Systems Engineer",
@@ -34,7 +35,7 @@ technical_background:
   ]
   
 currently_learning: ["How to relax, Manim"]
-hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee", "Comedy"]
+hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeIn&type=waving&color=gradient&height=100"/>
