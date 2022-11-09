@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?section=header&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img src="https://media.giphy.com/media/7NM9zPPo0KSjFfjdck/giphy.gif">
+<p class="aligncenter">
+    <img src="https://media.giphy.com/media/7NM9zPPo0KSjFfjdck/giphy.gif" width="248" height="248" alt="GIF by Ivan Rascon via GIPHY">
+</p>
 
 👨🏻‍💻  About
 ```yaml
