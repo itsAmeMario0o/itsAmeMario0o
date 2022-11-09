@@ -9,7 +9,6 @@ located_in: New York
 current_job: Technical Lead - Secure Workload @ Cisco Systems
 education:
   [
-    "A network engineer, a developer, and a statistician walk into a bar...",
     "Master's of Business Administration in Business Analytics",
     "Bachelor's in Telecommunications Engineering",
   ]
