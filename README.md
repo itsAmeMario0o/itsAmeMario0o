@@ -32,7 +32,7 @@ technical_background:
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["How to relax, Mangement Science"]
+currently_learning: ["How to relax, Management Science"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
