@@ -17,7 +17,6 @@ company: Cisco Systems
 fields_of_interests:
   [
     "Internetworking",
-    "Data Science",
     "Machine Learning",
     "Financial Analytics",
     "Statistical Computing",
@@ -32,7 +31,7 @@ technical_background:
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["How to relax, Management Science"]
+currently_learning: ["Strategy, Management Science"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
