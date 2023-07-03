@@ -6,7 +6,7 @@
 ```yaml
 name: Mario Ruiz
 located_in: New York
-current_job: Technical Lead - Secure Workload @ Cisco Systems
+current_job: Technical Solutions Architect - Enterprise @ Cisco Systems
 education:
   [
     "Master's of Business Administration in Business Analytics",
@@ -25,13 +25,13 @@ fields_of_interests:
 technical_background:
   [
     "Technical Lead"
-    "Technical Solutions Architect",
+    "Member of Technical Staff",
     "Consulting Systems Engineer",
     "Systems Engineer",
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["Strategy, Management Science"]
+currently_learning: ["Network Security, Accounting Analytics"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
