@@ -6,7 +6,7 @@
 ```yaml
 name: Mario Ruiz
 located_in: New York
-current_job: Technical Solutions Architect - Enterprise @ Cisco Systems
+current_job: Principal Engineer - Enterprise @ Cisco Systems
 education:
   [
     "Master's of Business Administration in Business Analytics",
