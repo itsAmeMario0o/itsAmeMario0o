@@ -31,7 +31,7 @@ technical_background:
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["Network Security, Accounting Analytics"]
+currently_learning: ["Network Security, eBPF"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
