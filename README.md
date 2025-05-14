@@ -31,7 +31,7 @@ technical_background:
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["Algorithmic Trading, eBPF"]
+currently_learning: ["Algorithmic Trading, GenAI in Finance"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
