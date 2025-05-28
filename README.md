@@ -20,7 +20,8 @@ fields_of_interests:
     "Machine Learning",
     "Financial Analytics",
     "Statistical Computing",
-    "DevOps",
+    "Network Security",
+    "Generative AI",
   ]
 technical_background:
   [
@@ -31,7 +32,7 @@ technical_background:
     "Intern - Cisco System - SW Test Eng",
   ]
   
-currently_learning: ["Algorithmic Trading, GenAI in Finance"]
+currently_learning: ["Algorithmic Trading, GenAI, Artful Persuasion"]
 hobbies: ["Boxing", "🏋️‍♂️", "Feng Shui", "Coffee" ]
 ```
 <p align="center">
