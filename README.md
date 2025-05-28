@@ -21,7 +21,7 @@ fields_of_interests:
     "Machine Learning",
     "Financial Analytics",
     "Network Security",
-    "Generative AI",
+    "Public Speaking",
   ]
 technical_background:
   [
