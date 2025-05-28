@@ -9,6 +9,7 @@ located_in: New York
 current_job: Principal Engineer - Enterprise @ Cisco Systems
 education:
   [
+    "Machine Learning and Reinforcement Learning in Finance",
     "Master's of Business Administration in Business Analytics",
     "Bachelor's in Telecommunications Engineering",
   ]
@@ -19,7 +20,6 @@ fields_of_interests:
     "Internetworking",
     "Machine Learning",
     "Financial Analytics",
-    "Statistical Computing",
     "Network Security",
     "Generative AI",
   ]
@@ -29,7 +29,7 @@ technical_background:
     "Member of Technical Staff",
     "Consulting Systems Engineer",
     "Systems Engineer",
-    "Intern - Cisco System - SW Test Eng",
+    "Intern - Cisco System",
   ]
   
 currently_learning: ["Algorithmic Trading, GenAI, Artful Persuasion"]
