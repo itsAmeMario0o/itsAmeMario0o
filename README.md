@@ -17,9 +17,9 @@ company: Cisco Systems
 
 fields_of_interests:
   [
+    "Internetworking",
     "Machine Learning",
     "Financial Analytics",
-    "Network Security",
     "Kubernetes Security",
     "AI Security",
   ]
