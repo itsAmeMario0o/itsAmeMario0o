@@ -21,6 +21,7 @@ fields_of_interests:
     "Machine Learning",
     "Financial Analytics",
     "Network Security",
+    "Kubernetes Security",
     "Public Speaking",
   ]
 technical_background:
